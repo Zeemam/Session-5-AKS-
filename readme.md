@@ -1,17 +1,17 @@
-# Web Dev Assignment
-
+# Web Dev Assignment # 5
+<!-- 
 ## h2
 
 ### h3
 
-#### h4
+#### h4 -->
 
-this is an assignment of web development course.
+This is an assignment of web development course which consists of the following implementations:
 
-- HTML
--**CSS**
--*Flexbox*
+- **HTML**
+- **CSS**
+- *Flexbox*
 
-![aks logo](image/Zeemam.jpg)
+![aks logo](image/github-logo.png)
 
-[assignment live link](https://session-5-aks.vercel.app/)
+[Assignment Live Link](https://session-5-aks.vercel.app/)
