@@ -9,7 +9,7 @@
     display: flex;
 }
 
-.subcontainer-1 {
+.left-subcontainer {
     flex: 1;
     background-color: #252528;
     height: 100vh;
@@ -31,8 +31,10 @@
 }
 
 
-.subcontainer-2 {
+.right-subcontainer {
     flex: 1;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
