@@ -100,8 +100,11 @@
 .timer {
     margin: 0 0 30px 80px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    width: 500px;
+}
 
+.timer h2{
     font-size: 15px;
     text-transform: uppercase;
     font-family: 'Raleway', sans-serif;
