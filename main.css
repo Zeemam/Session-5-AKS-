@@ -36,5 +36,83 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
+.music {
+    margin: 30px 0 0 80px;
+}
+
+.music h2 {
+    font-size: 15px;
+    text-transform:uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.info {
+    margin-left: 80px;
+    background-image: url(./image/Zeemam.jpg);
+    background-size: 170px 250px;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.welcome-text h2 {
+    font-family: 'Raleway', sans-serif;    
+    font-weight: 200;
+    text-transform:uppercase;
+    font-size: 3rem;
+}
+
+.welcome-text h3 {
+    font-family: 'Raleway', sans-serif;    
+    font-weight: 200;
+    text-transform:uppercase;
+    font-size: 2.5rem;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+.btn button {
+    width: 300px;
+    padding: 20px 0;
+    font-size: 1rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+    background-color: #49AAEF;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #49AAEF;
+    transition: all 0.5s;
+}
+
+.btn button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 40px #2962ff;
+    background-color: #2492e1;
+    color: #ffffff;
+}
+
+.timer {
+    margin: 0 0 30px 80px;
+    display: flex;
+    justify-content: space-around;
+
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.img-container {
+    margin-left: 300px;
+}
+
+.img-container img {
+    width: 30px;
+    height: 30px;
+}
