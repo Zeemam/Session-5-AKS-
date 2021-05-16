@@ -1,0 +1,38 @@
+/* Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.subcontainer-1 {
+    flex: 1;
+    background-color: #252528;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.tagline {
+    width: 80%;
+}
+
+.tagline h2 {
+    font-weight: 500;
+    font-size: 2rem;
+    color: #49AAEF;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.subcontainer-2 {
+    flex: 1;
+    height: 100vh;
+}
+
